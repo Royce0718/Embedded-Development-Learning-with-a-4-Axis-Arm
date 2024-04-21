@@ -1,2 +1,31 @@
-# Embedded-Development-Learning-with-a-4-Axis-Arm
-中：以4轴机械臂出发，不断学习提升硬件设计，嵌入式开发，3D建模，物联网应用等多方面综合开发的能力"En:Starting from a 4-axis robotic arm, continuously learning and improving skills in hardware design, embedded development, 3D modeling, IoT applications, and other aspects of comprehensive development."
+# 基于4轴机械臂的嵌入式开发学习
+
+## 概述
+该项目旨在围绕4轴机械臂展开，持续学习和提升硬件设计、嵌入式开发、3D建模和物联网应用等多方面综合开发能力。
+
+## 项目组成
+- **机械设计**：使用SolidWorks进行4轴机械臂的建模设计，采用无刷电机作为关节。
+- **嵌入式开发**：利用STM32F4 MCU实现无刷电机的Field-Oriented Control（FOC）驱动，支持UART和CAN通信协议。
+- **控制系统**：设计主控板用于通信和调试，整合STM32和ESP系列MCU实现物联网功能。
+- **Web界面**：使用HTML、CSS和JavaScript创建用户友好的Web界面，实现远程控制和监测。
+
+## 当前进展
+- 完成了4轴机械臂建模以及FOC电机驱动板的设计(暂未调试)。
+- 进行中：FOC驱动板代码。
+
+## 未来计划
+
+* 进行FOC调试，完善FOC驱动。
+
+- 完善主控板设计，实现通信和控制功能。
+- 开发物联网功能，开发Web界面，优化用户体验。
+
+## 项目状态
+
+由于个人情况，项目进展较为缓慢但仍持续进行。
+
+## 如何贡献
+
+欢迎大家提供想法和意见！可以fork本仓库，进行改进并提交pull request。
+
+
