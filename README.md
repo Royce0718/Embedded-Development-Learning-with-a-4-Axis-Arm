@@ -15,8 +15,7 @@
 
 ## 未来计划
 
-* 进行FOC调试，完善FOC驱动。
-
+- 进行FOC调试，完善FOC驱动。基于DengFoc
 - 完善主控板设计，实现通信和控制功能。
 - 开发物联网功能，开发Web界面，优化用户体验。
 
@@ -28,4 +27,8 @@
 
 欢迎大家提供想法和意见！可以fork本仓库，进行改进并提交pull request。
 
-
+## 项目参考
+**本项目为学习项目，参考了寻多资料与课程，以下为一些主要来源**
+- **机械臂建模**：@阿奇设计分享 https://www.bilibili.com/cheese/play/ss865?bsource=link_copy
+- **DengFOC**： @灯哥开源 https://www.bilibili.com/video/BV1cj411M7Xu/?share_source=copy_web&vd_source=83c3e0b7c1458f20e0fbeab3fe4c3a5a
+- **CSDN** ， **知乎**
